@@ -1,2 +1,2 @@
-# Starter-Pack
-Unity Starter Kit for CTIN 406L
+# Starter-Project-Template
+Unity Sample Project for CTIN 406L
